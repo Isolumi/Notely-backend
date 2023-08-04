@@ -5,146 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="238c0f0e-7b19-45fe-acbd-b85dcaa66e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/bench.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/abort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/defer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/iterate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_asynckit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_parallel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial_ordered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/state.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/streamify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/terminator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/parallel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/serial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/serialOrdered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/SECURITY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/UPGRADE_GUIDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/Cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/cancel/isCancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/Axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/InterceptorManager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/buildFullPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/createError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/enhanceError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/mergeConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/settle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/core/transformData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/defaults/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/defaults/transitional.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/env/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/env/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/bind.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/buildURL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/combineURLs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/cookies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/deprecatedMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isAbsoluteURL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isAxiosError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isURLSameOrigin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/normalizeHeaderName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/parseHeaders.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/spread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/toFormData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/helpers/validator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/License" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/lib/combined_stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/License" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/lib/delayed_stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/https.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/License" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/README.md.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/populate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.github/ISSUE_TEMPLATE/feature_request.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.github/workflows/test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.openapi-generator-ignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.openapi-generator/FILES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/.openapi-generator/VERSION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/api.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/base.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/common.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/configuration.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/api.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/base.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/common.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/configuration.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/configuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/openai/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691104860520</updated>
       <workItem from="1691104862715" duration="1931000" />
-      <workItem from="1691106845460" duration="2550000" />
+      <workItem from="1691106845460" duration="2685000" />
     </task>
     <servers />
   </component>
